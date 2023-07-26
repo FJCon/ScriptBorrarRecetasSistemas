@@ -9,6 +9,11 @@ Todos los items de la receta se agregan al pedido de materiales con un solo clic
 Para eliminar un item de una receta cargada aun equipo a fabricar se debe hacer click sobre el mismo, accion que carga una nueva página. Una vez cargada dicha página podremos ver el boton para eliminar el item.
 El proceso se repite para cada item de la receta
 
+## Ejemplo:
+Se cargó la receta denominada ATO-TAS,(conformada por todos los items en color verde) en un equipo por error.
+La receta ATO-TAS  tiene un total de 70 items.
+
+
 ## Solucion:
 
 El script recibe como entrada el nombre de la receta (nomenclatura estandariza dentro de la empresa). Dicho valor se utiliza para identificar los items de la receta de los demas items.
