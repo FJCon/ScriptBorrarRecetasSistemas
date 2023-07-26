@@ -27,4 +27,5 @@ El script recibe como entrada el nombre de la receta (nomenclatura estandariza d
 
 El script abre una nueva ventana y hace click en el boton "eliminar" para cada item que cumpla con el valor de entrada para luego cerrar dicha ventana.
 ![Ejemplo eliminar item](https://github.com/FJCon/ScriptBorrarRecetasSistemas/blob/main/imgs/04.gif?raw=true)
-Cuando el script finaliza, actualizamos la pàgina y vemos que todos los items pertenecientes a la receta han sido borrados.
+
+Cuando el script finaliza, actualizamos la página y vemos que todos los items pertenecientes a la receta han sido borrados.
