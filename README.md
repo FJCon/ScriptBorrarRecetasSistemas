@@ -11,15 +11,19 @@ El proceso se repite para cada item de la receta
 
 ## Ejemplo:
 Se cargó la receta denominada ATO-TAS,(conformada por todos los items en color verde) en un equipo por error.
-La receta ATO-TAS  tiene un total de 70 items.
+La receta ATO-TAS  tiene un total de 32 items.
 
-![Ejemplo items receta](https://github.com/FJCon/ScriptBorrarRecetasSistemas/blob/main/imgs/sistema01.png?raw=true)
+![Ejemplo items receta](https://github.com/FJCon/ScriptBorrarRecetasSistemas/blob/main/imgs/01.gif?raw=true)
 
 Para eliminarla se debe hacer click en la tercer columna de cada fila, luego se abrirá una nueva ventana donde veremos el boton para eliminar el item. El proceso se repite por cada item hasta eliminar por completo la receta.
 
-![Ejemplo eliminar item](https://raw.githubusercontent.com/FJCon/ScriptBorrarRecetasSistemas/main/imgs/sistema02.png)
+![Ejemplo eliminar item](https://github.com/FJCon/ScriptBorrarRecetasSistemas/blob/main/imgs/02.gif?raw=true)
 
 ## Solucion:
 
 El script recibe como entrada el nombre de la receta (nomenclatura estandariza dentro de la empresa). Dicho valor se utiliza para identificar los items de la receta de los demas items.
+
+![Ejemplo eliminar item](https://github.com/FJCon/ScriptBorrarRecetasSistemas/blob/main/imgs/03.gif?raw=true)
+
 El script abre una nueva ventana y hace click en el boton "eliminar" para cada item que cumpla con el valor de entrada para luego cerrar dicha ventana.
+![Ejemplo eliminar item](https://github.com/FJCon/ScriptBorrarRecetasSistemas/blob/main/imgs/04.gif?raw=true)
