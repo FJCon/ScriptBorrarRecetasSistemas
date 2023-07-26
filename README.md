@@ -13,6 +13,11 @@ El proceso se repite para cada item de la receta
 Se cargó la receta denominada ATO-TAS,(conformada por todos los items en color verde) en un equipo por error.
 La receta ATO-TAS  tiene un total de 70 items.
 
+![Ejemplo items receta](https://github.com/FJCon/ScriptBorrarRecetasSistemas/blob/main/imgs/sistema01.png?raw=true)
+
+Para eliminarla se debe hacer click en la tercer columna de cada fila, luego se abrirá una nueva ventana donde veremos el boton para eliminar el item. El proceso se repite por cada item hasta eliminar por completo la receta.
+
+![Ejemplo eliminar item](https://raw.githubusercontent.com/FJCon/ScriptBorrarRecetasSistemas/main/imgs/sistema02.png)
 
 ## Solucion:
 
