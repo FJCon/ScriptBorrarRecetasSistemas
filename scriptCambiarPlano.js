@@ -13,11 +13,10 @@ for (let i = 3; i < tabla.length; i++){
 
         win.addEventListener('load',()=>{
             let nroPlano = document.querySelector("#idplano");
-            nroPlano.value = plano;
+            let boton = document.querySelector("#Enviar")
             setTimeout(()=>{
-
+                nroPlano.value = plano;
                 boton.click();
-
             },2500);
             setTimeout(()=>{
 
