@@ -1,4 +1,4 @@
-let tabla = document.querySelector('body').children[1].children[0].children; //array con todas las filas de la tabla
+let tabla = document.querySelector("body > table > tbody").children
 let busqueda = prompt('Ingrese equipo a eliminar');
 busqueda = busqueda.toUpperCase();
 for (let i = 3; i < tabla.length; i++){
